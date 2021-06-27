@@ -1,0 +1,12 @@
+{
+  "name": "ghprofile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build -i ./main.css -o ./public/style.css"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^2.2.4"
+  }
+}
